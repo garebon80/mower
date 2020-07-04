@@ -12,7 +12,7 @@ Dependencies
 Compile & Run
 -------------
 
-    git clone https://github.com/garebon80/testseatcode.git
+    git clone https://github.com/garebon80/mower.git
     cd mower
     mvn clean install
     java -jar target/mower-0.0.1-SNAPSHOT.jar src/main/resources/mower.txt

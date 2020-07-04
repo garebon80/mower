@@ -25,7 +25,6 @@ Latest Sonar Statistics
 
 How to use the Mower
 -------------------
-MowItNow runs simulations of moving mowers.
 
 You simply have to describe the simulation, as a file:
 * the first line must be the coordinates of the top right position (two numbers separated by a space),

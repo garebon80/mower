@@ -2,6 +2,7 @@ Mower -SEAT CODE TEST
 
 Dependencies
 ------------
+* Spring Boot
 * JDK 1.8
 * Maven 3
 * SLF4J + LogBack

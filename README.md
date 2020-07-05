@@ -27,7 +27,7 @@ Latest Sonar Statistics
 How to use the Mower
 -------------------
 
-You simply have to describe the simulation, as a file:
+You simply have to describe the simulation, as a file (is ingluded within the project):
 * the first line must be the coordinates of the top right position (two numbers separated by a space),
 * the second line must be the coordinates of the mower and the orientation (two **digits** and [NESW] separated by a space)
 * the third line must be a list of command (m to move forward, L to rotate left, and R to rotate right).
